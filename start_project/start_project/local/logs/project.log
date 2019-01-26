@@ -1,0 +1,146 @@
+2019-01-26T01:18:21.387Z - normal: Load ~/.CocosCreator/settings.json
+2019-01-26T01:18:22.568Z - normal: Initializing Asset Database
+2019-01-26T01:18:22.596Z - normal: checking language setting...
+2019-01-26T01:18:22.596Z - normal: Language: zh
+2019-01-26T01:18:23.725Z - success: preview server running at http://localhost:7456
+2019-01-26T01:18:23.726Z - success: protocol editor-framework registered
+2019-01-26T01:18:23.726Z - success: protocol app registered
+2019-01-26T01:18:23.726Z - success: protocol theme registered
+2019-01-26T01:18:23.726Z - success: protocol packages registered
+2019-01-26T01:18:23.727Z - success: protocol uuid registerred
+2019-01-26T01:18:23.727Z - success: protocol db registerred
+2019-01-26T01:18:23.727Z - success: protocol thumbnail registerred
+2019-01-26T01:18:23.727Z - success: protocol unpack registerred
+2019-01-26T01:18:23.727Z - success: protocol disable-commonjs registerred
+2019-01-26T01:18:23.900Z - normal: connected!
+2019-01-26T01:18:23.901Z - normal: Check project D:\cocos\start_project\start_project
+2019-01-26T01:18:23.902Z - normal: Initializing project D:\cocos\start_project\start_project
+2019-01-26T01:18:24.432Z - normal: Initializing Cocos2d
+2019-01-26T01:18:24.924Z - normal: Initializing engine extends
+2019-01-26T01:18:24.926Z - normal: Loading editor/builtin packages from D:\CocosCreator\resources\app.asar\editor\builtin
+2019-01-26T01:18:25.026Z - success: assets loaded
+2019-01-26T01:18:25.028Z - success: builder loaded
+2019-01-26T01:18:25.457Z - success: cocos-services loaded
+2019-01-26T01:18:25.460Z - success: console loaded
+2019-01-26T01:18:25.485Z - success: fb-instant-games loaded
+2019-01-26T01:18:25.486Z - success: google-instant-games loaded
+2019-01-26T01:18:25.489Z - success: hierarchy loaded
+2019-01-26T01:18:25.491Z - success: inspector loaded
+2019-01-26T01:18:25.492Z - success: keystore loaded
+2019-01-26T01:18:25.495Z - success: node-library loaded
+2019-01-26T01:18:25.497Z - success: package-asset loaded
+2019-01-26T01:18:25.498Z - success: preferences loaded
+2019-01-26T01:18:25.499Z - success: project-exporter loaded
+2019-01-26T01:18:25.501Z - success: project-importer loaded
+2019-01-26T01:18:25.502Z - success: project-settings loaded
+2019-01-26T01:18:25.504Z - success: ui-kit loaded
+2019-01-26T01:18:25.507Z - success: scene loaded
+2019-01-26T01:18:25.508Z - success: simulator-debugger loaded
+2019-01-26T01:18:25.508Z - success: sprite-editor loaded
+2019-01-26T01:18:25.510Z - success: store loaded
+2019-01-26T01:18:25.513Z - success: timeline loaded
+2019-01-26T01:18:25.513Z - normal: Loading builtin packages from D:\CocosCreator\resources\builtin
+2019-01-26T01:18:25.718Z - success: asset-db-debugger loaded
+2019-01-26T01:18:25.727Z - success: code-editor loaded
+2019-01-26T01:18:25.727Z - success: color-picker loaded
+2019-01-26T01:18:25.854Z - success: fb-audience-network loaded
+2019-01-26T01:18:25.857Z - success: fb-live-stream loaded
+2019-01-26T01:18:25.861Z - success: google-play-instant loaded
+2019-01-26T01:18:25.870Z - success: huawei-runtime loaded
+2019-01-26T01:18:25.871Z - success: jsb-adapter loaded
+2019-01-26T01:18:25.875Z - success: oppo-runtime loaded
+2019-01-26T01:18:25.878Z - success: package-manager loaded
+2019-01-26T01:18:26.330Z - success: qqplay-adapter loaded
+2019-01-26T01:18:26.332Z - success: runtime-dev-tools loaded
+2019-01-26T01:18:26.340Z - success: sdkbox loaded
+2019-01-26T01:18:26.358Z - success: tester loaded
+2019-01-26T01:18:26.360Z - success: ui-grid loaded
+2019-01-26T01:18:26.378Z - success: ui-kit-preview-extra loaded
+2019-01-26T01:18:26.380Z - success: ui-kit-preview loaded
+2019-01-26T01:18:26.381Z - success: ui-tree loaded
+2019-01-26T01:18:26.384Z - success: vivo-runtime loaded
+2019-01-26T01:18:26.385Z - success: weapp-adapter loaded
+2019-01-26T01:18:27.663Z - normal: Loading packages
+2019-01-26T01:18:27.667Z - normal: Watching packages
+2019-01-26T01:18:27.866Z - info: Cocos Services load base data!
+2019-01-26T01:18:28.510Z - normal: Run Application
+2019-01-26T01:20:41.551Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "D:\\GitHub\\cocos",
+  "debug": false,
+  "dest": "D:\\GitHub\\cocos\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "6c065966-b83d-43d6-907f-1324065723d5",
+    "78771609-e296-4613-a594-7fd78a2740b1",
+    "5210cee8-d9df-42e9-98df-8a24ca44aa37"
+  ],
+  "sourceMaps": false,
+  "startScene": "6c065966-b83d-43d6-907f-1324065723d5",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "9700befa-cee4-4d",
+  "zipCompressJs": true,
+  "project": "D:\\cocos\\start_project\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2019-01-26T01:20:41.554Z - normal: Building D:\cocos\start_project\start_project
+2019-01-26T01:20:41.554Z - normal: Destination D:\GitHub\cocos\web-mobile
+2019-01-26T01:20:41.871Z - normal: Delete D:\GitHub\cocos\web-mobile\subpackages/**/*,D:\GitHub\cocos\web-mobile\**\*
+2019-01-26T01:20:43.216Z - normal: Start building assets
+2019-01-26T01:20:43.216Z - normal: Start spawn build-worker
+2019-01-26T01:20:43.700Z - normal: Finish spawn build-worker
+2019-01-26T01:20:43.700Z - normal: Start init build-worker
+2019-01-26T01:20:45.821Z - normal: Finish init build-worker
+2019-01-26T01:20:45.821Z - normal: Start build-assets in worker
+2019-01-26T01:20:46.164Z - normal: Finish build-assets in worker
+2019-01-26T01:20:46.169Z - normal: Finish building assets
+2019-01-26T01:20:46.177Z - normal: Start building plugin scripts
+2019-01-26T01:20:46.245Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2019-01-26T01:20:46.251Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2019-01-26T01:20:46.259Z - normal: Built to "D:\GitHub\cocos\web-mobile" successfully
